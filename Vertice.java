@@ -6,11 +6,11 @@ class Vertice{
         this.nome = nome;
     }
 
-    public getNome(){
+    public String getNome(){
         return this.nome;
     }
 
-    public setNome(String nome){
+    public void setNome(String nome){
         this.nome = nome;
     }
 }
